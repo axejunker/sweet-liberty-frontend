@@ -193,7 +193,6 @@ const PursuingExcellence = () => {
         <Brands className="mb-12" setData={dataHandler} />
         <Awards data={data} />
       </div>
-      <div className="clip-mask-px"></div>
     </section>
   )
 }
